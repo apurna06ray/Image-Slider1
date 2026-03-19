@@ -71,4 +71,4 @@ Click Back to navigate to another page
 
 🤖 AI Declaration
 
-This project was fully created by me. AI was only used for minor guidance.
+This project was fully created by me. Some parts of the README were generated with the assistance of AI for guidance and structure. The code and implementation were entirely done by me.
