@@ -1,23 +1,23 @@
-📸 Image Slider Project
-🚀 Description
+# Image Slider Project
+ Description
 
 This project is a simple and responsive Image Slider (Carousel) built using HTML, CSS, and JavaScript. It allows users to navigate through multiple images using Next and Preview buttons.
 
 The slider smoothly transitions between images using CSS animations and JavaScript logic.
 
-✨ Features
+# Features
 
-🔁 Next & Previous navigation
+1.Next & Previous navigation
 
-🎞 Smooth sliding animation
+2. Smooth sliding animation
 
-📱 Responsive layout
+3. Responsive layout
 
-🎨 Styled UI with background image
+4. Styled UI with background image
 
-🔙 Back button navigation support
+5. Back button navigation support
 
-🛠️ Tech Stack
+'6. Tech Stack
 
 HTML
 
@@ -25,7 +25,7 @@ CSS
 
 JavaScript (DOM Manipulation)
 
-📂 How It Works
+# How It Works
 
 All images are placed side by side using position: absolute
 
@@ -35,23 +35,23 @@ A counter (count) tracks the current image
 
 Buttons update the counter and trigger the slide animation
 
-👨‍💻 Who’s Working On It
+# Who’s Working On It
 
 This project is developed by Apurna as part of learning JavaScript DOM and UI design.
 
-🔮 What’s Next (Future Improvements)
+# What’s Next (Future Improvements)
 
-⏱ Auto-slide feature (carousel mode)
+1. Auto-slide feature (carousel mode)
 
-🔘 Dot indicators for navigation
+2. Dot indicators for navigation
 
-⌨️ Keyboard controls
+3. Keyboard controls
 
-📱 Touch swipe support for mobile
+4.Touch swipe support for mobile
 
-🎵 Add sound or transition effects
+5. Add sound or transition effects
 
-🧠 Learning Outcome
+# Learning Outcome
 
 DOM manipulation
 
@@ -61,7 +61,7 @@ CSS positioning & transitions
 
 Building interactive UI components
 
-📌 Usage
+# Usage
 
 Open the project in browser
 
